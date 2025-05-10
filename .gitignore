@@ -8,3 +8,5 @@ __pycache__/
 *.docx
 *.doc
 *.pptx
+extracted_text_from_bytes.txt
+extracted_text_from_path.txt
