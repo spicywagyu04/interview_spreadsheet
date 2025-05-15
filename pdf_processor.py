@@ -37,7 +37,6 @@ def extract_text_from_pdf(pdf_file_source, save_to_file=False, output_filename="
 
     except Exception as e:
         print(f"Error processing PDF: {e}")
-         # Return empty string on failure
         return ""
 
     return extracted_text
